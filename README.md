@@ -24,56 +24,23 @@ I use exploratory data analysis to find out what would be the best movie to make
 ## Analysis  
 We found that there is a positive correlation between movie budget and profit.
 
+![](Project_DraftChart/budgetvsprofit.jpg)
 
 We found that a movie that succeeds domestically do well internationally.
 
+![](Project_DraftChart/DomesticvsForeign.jpg)
 
 We found that higher movie budget leads to a higher online votes.
 
+![](Project_DraftChart/budgetvsvotecount.jpg)
 
 We found that online vote counts lead to a higher popularity of movie.
 
+![](Project_DraftChart/votecountpopular.jpg)
 
 We found that action, adventure, comedy, drama are most profitable movie to make. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](Project_DraftChart/genrevsprofit.jpg)
 
 
 ## Conclusions
