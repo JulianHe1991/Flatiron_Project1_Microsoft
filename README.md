@@ -2,7 +2,8 @@
 ![](https://media.giphy.com/media/dxgEz5tWSRMk1tsyrt/giphy.gif)
 ## **Business Understanding**
 Industry stakeholders: Investors, Movie studios, producers and actors, distributors such as streaming platform, marketing firm, and audiences. <br>
-The movie making industry is highly competitive. For Microsoft to break into this market, it is essential to identify key aspects of successful movie and learn from these cases. 
+The movie making industry is highly competitive. For Microsoft to break into this market, it is essential to identify key aspects of successful movie and learn from these cases. Our goal is to help Microsoft Studio to pinpoint these key areas and form an actionable recommendation on its movie debut. 
+
 ## **Data Understanding** 
 The data we used in this project are from Movie Box Gross, Movie Budget, Tomato Movie, and IMDB database.
 - **Movie Box Gross** provides movie titles, studios, domestic and foreign gross numbers.
